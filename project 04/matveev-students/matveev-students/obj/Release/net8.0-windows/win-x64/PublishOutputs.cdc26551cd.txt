@@ -1,0 +1,2 @@
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\win-x64\publish\WinFormsApp1.pdb
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\win-x64\publish\WinFormsApp1.exe
