@@ -1,0 +1,5 @@
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.exe
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.dll
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.deps.json
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\maksi\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.pdb
